@@ -5,11 +5,11 @@ function soma(){
     mostrarResultado(valorN + valorN2);
 }
 
-function subtracao(){
-    let valorN = parseFloat(document.querySelector("#valor1").value);
-    let valorN2 = parseFloat(document.querySelector("#valor2").value);
-    mostrarResultado(valorN - valorN2);
-}
+// function subtracao(){
+//     let valorN = parseFloat(document.querySelector("#valor1").value);
+//     let valorN2 = parseFloat(document.querySelector("#valor2").value);
+//     mostrarResultado(valorN - valorN2);
+// }
 
 function multiplicacao(){
     let valorN = parseFloat(document.querySelector("#valor1").value);
